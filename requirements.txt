@@ -1,0 +1,2 @@
+# No third-party packages are required.
+# Uses only Python 3.9+ standard library: socket, threading, json, struct, tkinter
